@@ -1,5 +1,5 @@
-pip install vega_datasets -q
-pip install pydeck -q
+!pip install vega_datasets -q
+!pip install pydeck -q
 
 
 # imports
