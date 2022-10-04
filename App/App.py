@@ -1,6 +1,4 @@
 
-!pip install pydeck -q
-
 
 # imports
 import streamlit as st
