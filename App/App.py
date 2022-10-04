@@ -1,4 +1,4 @@
-!pip install vega_datasets -q
+
 !pip install pydeck -q
 
 
