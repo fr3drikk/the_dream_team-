@@ -5,7 +5,6 @@ import pydeck as pdk
 import numpy as np
 import pandas as pd 
 import altair as alt
-from vega_datasets import data
 import plotly.graph_objects as go
 from plotly import tools
 import plotly.offline as py
