@@ -1,3 +1,7 @@
+pip install vega_datasets -q
+pip install pydeck -q
+
+
 # imports
 import streamlit as st
 import streamlit.components.v1 as components
